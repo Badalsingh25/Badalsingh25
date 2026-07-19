@@ -62,21 +62,6 @@ I'm a final-year **Computer Science Engineering** student and **Java Full-Stack 
 
 ---
 
-## 🟣 AI / ML & Applied Intelligence
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| NLP-based Resume Matching | Applied | Built candidate-to-job-description matching logic for the Job Portal Platform |
-| Generative AI Integration | Applied | Integrated Google's Gemini API to power in-app AI assistance in 10xCoders |
-| AI-Assisted Code Execution | Applied | Integrated the Judge0 API for real-time code compilation & execution |
-| AI-Driven Product Design | Working Knowledge | Designed dashboards and UX flows around AI-generated recommendations |
-
-</div>
-
----
-
 ## 🟣 Featured Projects
 
 <details>
@@ -164,45 +149,6 @@ Focused on frontend engineering — building reusable components and improving p
 
 ---
 
-## 🟣 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| 🏆 Hack With India Hackathon | Participant — Unstop |
-| 🏆 Google Cloud Gen AI Exchange Hackathon | Participant — Hack2Skill |
-| 🎓 Academic Excellence | CGPA 9.29/10 — B.Tech CSE, Centurion University |
-| 💻 Consistent DSA Practice | Active problem solver on LeetCode |
-
-</div>
-
----
-
-## 🟣 Certifications
-
-**Infotact Solutions**
-
-![Cert](https://img.shields.io/badge/Web%20Dev%20Training%20%26%20Internship-2025-4B0082?style=flat-square&labelColor=0D1117)
-
-**GeeksforGeeks × CUTM**
-
-![Cert](https://img.shields.io/badge/GfG%20CUTM%20Training%20Program-Bhubaneswar%20Campus-7F00FF?style=flat-square&logo=geeksforgeeks&logoColor=white&labelColor=0D1117)
-
-**Unstop**
-
-![Cert](https://img.shields.io/badge/Hack%20With%20India%20Hackathon-Participant-8A2BE2?style=flat-square&labelColor=0D1117)
-
-**Hack2Skill**
-
-![Cert](https://img.shields.io/badge/Google%20Cloud%20Gen%20AI%20Exchange-Hackathon-6A0DAD?style=flat-square&logo=googlecloud&logoColor=white&labelColor=0D1117)
-
-**DevTown × GDG VIT-AP**
-
-![Cert](https://img.shields.io/badge/React%20Hooks%20Interactive%20Lab-Completed-A78BFA?style=flat-square&logo=react&logoColor=white&labelColor=0D1117)
-
----
-
 ## 🟣 Coding Profiles
 
 <div align="center">
@@ -226,16 +172,6 @@ Focused on frontend engineering — building reusable components and improving p
 
 ---
 
-## 🟣 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Badalsingh25&no-frame=true&row=1&column=7&margin-w=8&theme=dracula" />
-
-</div>
-
----
-
 ## 🟣 Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Badalsingh25&bg_color=0D1117&color=A78BFA&line=8A2BE2&point=ffffff&hide_border=true&area=true" />
@@ -247,27 +183,6 @@ Focused on frontend engineering — building reusable components and improving p
 <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Badalsingh25/Badalsingh25/output/github-contribution-grid-snake-dark.svg" />
 
 <sub>*Animates automatically once the <a href="https://github.com/Platane/snk">snake-generation GitHub Action</a> is added to this repository.*</sub>
-
----
-
-## 🟣 Current Focus
-
-```yaml
-current_focus:
-  learning:
-    - System design fundamentals
-    - Advanced Spring Boot & microservices patterns
-  building:
-    - Full-stack platforms with Spring Boot, React.js & modern databases
-    - A stronger, interview-ready portfolio
-  exploring:
-    - Cloud deployment for full-stack applications
-    - Deeper generative AI integration in web products
-  open_to:
-    - Full-time Java Full-Stack Developer roles
-    - Internship opportunities
-    - Open-source collaboration
-```
 
 ---
 
