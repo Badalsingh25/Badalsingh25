@@ -32,8 +32,6 @@
 I'm a final-year **Computer Science Engineering** student and **Java Full-Stack Developer** who likes turning ideas into reliable, production-ready systems. My focus sits at the intersection of clean backend architecture and responsive, user-centered frontends — APIs that are secure by default, and interfaces that don't get in the user's way.
 
 - 🔭 Currently building full-stack platforms with **Spring Boot, React.js, MySQL, PostgreSQL & MongoDB**
-- 🔐 Comfortable implementing **JWT & OAuth2** authentication end-to-end, not just wiring up a library
-- 🤖 Have shipped features using **generative AI (Gemini API)** and **NLP-based matching**, alongside traditional CRUD systems
 - 🧠 Sharpening problem-solving through consistent **DSA practice on LeetCode**
 - 🎓 Final-year B.Tech CSE @ Centurion University of Technology & Management — CGPA 9.29/10
 - 🌱 Currently interviewing for **Full-Stack Developer** roles — open to internships & open-source collaboration
