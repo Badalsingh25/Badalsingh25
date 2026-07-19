@@ -42,6 +42,8 @@ I'm a final-year **Computer Science Engineering** student and **Java Full-Stack 
 
 ## 🟣 Tech Stack
 
+<div align="center">
+
 **Languages**
 
 <img src="https://skillicons.dev/icons?i=java,js,mysql&theme=dark" />
@@ -57,6 +59,8 @@ I'm a final-year **Computer Science Engineering** student and **Java Full-Stack 
 **Tools & Platforms**
 
 <img src="https://skillicons.dev/icons?i=github,postman,vscode,idea&theme=dark" />
+
+</div>
 
 ---
 
@@ -122,6 +126,18 @@ Integrated three external APIs into one cohesive experience: **Judge0** for live
 ---
 
 ## 🟣 Experience
+
+**Software Development Intern · Infosys Springboard 7.0 (Virtual Internship)**
+`2026 – Present`
+
+Building a full-stack **Lab Resource Utilization Platform** to manage and track lab resource usage.
+
+- Developing full-stack features spanning PostgreSQL data models to React-based interfaces
+- Using Postman for API testing and validation throughout development
+
+`Java` `Spring Boot` `React.js` `PostgreSQL` `Postman`
+
+<br/>
 
 **Web Development Intern · Infotact Solutions**
 `May 2025 – Aug 2025`
