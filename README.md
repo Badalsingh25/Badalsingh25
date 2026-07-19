@@ -147,16 +147,6 @@ Focused on frontend engineering — building reusable components and improving p
 
 ---
 
-## 🟣 Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Badal__Singh25-4B0082?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117)](https://leetcode.com/u/Badal_Singh25)
-
-</div>
-
----
-
 ## 🟣 GitHub Analytics
 
 <div align="center">
