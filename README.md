@@ -184,7 +184,8 @@ Focused on frontend engineering — building reusable components and improving p
 
 ## 🟣 Contribution Snake
 
-<img alt="contribution snake animation" src="https://raw.githubusercontent.com/Badalsingh25/Badalsingh25/output/github-contribution-grid-snake-dark.svg" />
+<!-- <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Badalsingh25/Badalsingh25/output/github-contribution-grid-snake-dark.svg" /> -->
+<img alt="contribution snake animation" src="https://raw.githubusercontent.com/Badalsingh25/Badalsingh25/output/github-contribution-grid-snake.svg" />
 
 <sub>*Animates automatically once the <a href="https://github.com/Platane/snk">snake-generation GitHub Action</a> is added to this repository.*</sub>
 
