@@ -56,7 +56,7 @@ I'm a final-year **Computer Science Engineering** student and **Java Full-Stack 
 
 **Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea&theme=dark" />
+<img src="https://skillicons.dev/icons?i=github,postman,vscode,idea&theme=dark" />
 
 ---
 
