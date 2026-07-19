@@ -48,7 +48,7 @@ I'm a final-year **Computer Science Engineering** student and **Java Full-Stack 
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,angular,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" />
 
 **Backend & Databases**
 
