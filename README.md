@@ -206,8 +206,6 @@ Focused on frontend engineering — building reusable components and improving p
 
 <div align="center">
 
-*"Code is easy to write and hard to maintain — I try to do both well."*
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,50:7F00FF,100:4B0082&height=120&section=footer" width="100%"/>
 
 </div>
